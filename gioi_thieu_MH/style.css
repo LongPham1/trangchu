@@ -19,6 +19,7 @@ body {
     float: left;
     border: 3px solid green;
     padding: 10px;
+    max-width: 50%;
 }
 
 img {
@@ -43,7 +44,7 @@ p {
     padding-top: 1rem;
     padding-bottom: 1rem;
     text-indent: 50px;
-    font-size: x-large;
+    font-size: medium;
 }
 
 footer {
