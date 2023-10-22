@@ -54,12 +54,12 @@ footer {
 
 .text {
     padding: 1rem;
-    
+
 }
 
 header {
     box-sizing: border-box;
-    background-image: linear-gradient(120deg, rgb(99, 250, 200),rgb(160, 255, 223), rgb(246, 242, 242), white);
+    background-image: linear-gradient(120deg, rgb(99, 250, 200), rgb(160, 255, 223), rgb(246, 242, 242), white);
     padding-top: 1.5rem;
     padding-bottom: 5rem;
     margin: 0.5rem;
@@ -90,7 +90,7 @@ header.head::after {
     bottom: -5px;
     left: -20%;
     right: -0%;
-    z-index: 1; 
+    z-index: 1;
 }
 
 
